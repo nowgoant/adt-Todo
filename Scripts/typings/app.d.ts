@@ -1,0 +1,3 @@
+﻿interface Data {
+    title: string;
+}
